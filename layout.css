@@ -1,0 +1,106 @@
+body{
+	padding: 0;
+	margin: 0;	
+}
+header{
+	margin:0;
+	padding: 0;
+	height: 95px;
+}
+
+
+#menu{
+	margin-top: 0px;
+	height:0.5px;
+	width: 100%;
+	background-color: White;
+	padding: 0;
+	margin: 0;
+}
+#menu ul {
+	margin-left: 0px;
+	list-style: none;
+}
+.logo {
+
+	float: left;
+}
+#menu ul li {
+	float: left;
+	line-height: 70px;
+	
+	margin-left: 6px;
+
+}
+#menu ul li a{
+	color: Grey;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 18px;
+}
+.redes{
+	float: right;
+	margin-top: 20px;
+	text-decoration: none;
+	margin-right: 20px;
+	display: inline-block;
+	
+}
+#cover {
+	margin: 0;
+	margin-bottom: 120px;
+	height: 444px;
+	width: 100%;
+	background-image: url('file:///C:/Users/Pamela/Desktop/Ironhack/firsthack/img/header.jpg');
+
+}
+.coverLetter {
+	text-align: center;
+	color: white;
+    font-size: 55px;
+    position:relative;
+    padding: 120px 20px 20px;
+    font-family: monospace;
+}
+.coverLetter1 {
+	text-align: center;
+	color: white;
+    font-size: 35px;
+    position:relative;
+    padding: 20px 20px 20px;
+    font-family: monospace;
+}
+.bannerimg {
+	margin-left: 60px;
+	position: relative;
+	padding-top: 100px;
+
+}
+p {
+	margin-left: 40%;
+	color:white;
+	padding-top: 120px;
+}
+footer {
+	margin-top: 120px;
+	height:480px; 
+	width:100%;
+	background-color: Black;
+}
+#tableTittle th{
+	width:760px;
+	margin-bottom:20px;
+	overflow:hidden;
+	float: center;
+	border-top:80px solid Black;
+	color:Grey;
+	font-size: 22px;
+}
+th{
+	width:760px;
+	margin-bottom:20px;
+	overflow:hidden;
+	float: center;
+	border-top:10px solid Black;
+	color:white;
+	font-size: 18px;
